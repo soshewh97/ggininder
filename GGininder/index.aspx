@@ -15,7 +15,9 @@
     
         <asp:Button ID="Button1" runat="server" Text="Button" />
     
-    </div>
+        <br />
+        exam 1<br />
+        練習一</div>
     </form>
 </body>
 </html>
